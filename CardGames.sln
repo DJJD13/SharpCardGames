@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackJack", "BlackJack\BlackJack.csproj", "{89A7FDE0-EE68-46D2-907F-449390C51BB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeHelpers", "CodeHelpers\CodeHelpers.csproj", "{DBF7D304-401F-4BFB-AC67-B51BA430C142}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89A7FDE0-EE68-46D2-907F-449390C51BB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89A7FDE0-EE68-46D2-907F-449390C51BB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89A7FDE0-EE68-46D2-907F-449390C51BB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89A7FDE0-EE68-46D2-907F-449390C51BB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBF7D304-401F-4BFB-AC67-B51BA430C142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBF7D304-401F-4BFB-AC67-B51BA430C142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBF7D304-401F-4BFB-AC67-B51BA430C142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBF7D304-401F-4BFB-AC67-B51BA430C142}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
